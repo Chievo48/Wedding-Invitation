@@ -45,17 +45,17 @@ body{
 .hero h1 {
     font-family: "Old Standard TT", serif;
     font-size: 6rem;
-    color: black;
+    color: white;
 }
 
 .hero h4 {
     font-size: 1.6rem;
-    color: black;
+    color: white;
 }
 
 .hero p {
     font-size: 1.4rem;
-    color: black;
+    color: white;
 }
 
 .hero a {
